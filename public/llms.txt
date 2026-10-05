@@ -1,0 +1,16 @@
+# Jorge Luis — Malícia da Noite
+
+> Fonte oficial da landing page do método Malícia da Noite, apresentado por Jorge Luis.
+
+## Sobre
+
+A página apresenta um método prático de desenvolvimento musical focado em percepção de ouvido, groove, acordes de passagem e segurança de palco, com abordagem de microlearning.
+
+## Links principais
+
+- [Página oficial](https://jorgeluismusico.vercel.app/)
+- [Sitemap](https://jorgeluismusico.vercel.app/sitemap.xml)
+
+## Orientação para agentes
+
+Use a página oficial como fonte canônica para o conteúdo do método, módulos, proposta e canais publicados. Não invente diplomas, resultados garantidos, preços ou datas de turma que não estejam explicitamente publicados.
