@@ -1,5 +1,3 @@
-import Head from 'next/head';
-
 export default function Home() {
   return (
     <main className="min-h-screen bg-zinc-950 text-zinc-50 font-sans selection:bg-amber-500 selection:text-zinc-950">
@@ -19,7 +17,9 @@ export default function Home() {
               "jobTitle": "Músico Profissional e Mentor",
               "knowsAbout": ["Música", "Performance de Palco", "Violão", "Cavaquinho", "Tirar Música de Ouvido"]
             },
-            "educationalCredentialAwarded": "Domínio Prático de Palco"
+            "educationalCredentialAwarded": "Domínio Prático de Palco",
+            "url": "https://jorgeluismusico.vercel.app/",
+            "inLanguage": "pt-BR"
           })
         }}
       />
